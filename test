@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Profile Embed</title>
+</head>
+<body>
+
+    <!-- LinkedIn Profile Embed -->
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+    <div class="badge-base LI-profile-badge" 
+        data-locale="en_US" 
+        data-size="large" 
+        data-theme="light" 
+        data-type="VERTICAL" 
+        data-vanity="your-linkedin-profile-vanity" 
+        data-version="v1">
+    </div>
+
+</body>
+</html>
